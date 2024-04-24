@@ -1,0 +1,43 @@
+{  margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image:linear-grsdient(#00000001,#00000063),url(img.webp) ;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+.contaniner{
+    max-width: 14000px;
+    padding: 3%;
+    max-width: 0 auto;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav  .logo{
+    font-size: 35px;
+    font-st
+}
+
+
+
+
+
+
+
+
+
+
+
+
